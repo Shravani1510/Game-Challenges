@@ -19,4 +19,5 @@ The way this works is getting a number of keys here that represent different dru
 Simon Game-
 Using: HTML,CSS, and JQuery
 This starts pressing any key and it will show user a tile the user have to click on. And as user go from level to level the pattern get more and more complicated, and at some point user going to screw up, and it's going to tell user that it's wrong and game is over. So user can press any key to restart the game.
-![simon](https://user-images.githubusercontent.com/39625554/159673928-34d67519-88b3-41c5-ad64-62faf6f5f70d.PNG)
+
+![simon](https://user-images.githubusercontent.com/39625554/159674706-251091c9-7c1a-4f3c-b156-cb268bcda7cf.PNG)
