@@ -12,7 +12,8 @@ Here 2 dices thrown randomly so that player-1, player-2 have values their own di
 Drum kit-
 Using: HTML, CSS, advanced Document Object Model (DOM)
 Adding sounds with event listeners to buttons and keystrokes to know when user is tapping on the keyboard or clicking on particular button on website and animation.
-The way this works is getting a number of keys here that represent different drums in a typical drum set. and when user click on any of these buttons they will get corresponding sound of the drum. 
+The way this works is getting a number of keys here that represent different drums in a typical drum set. and when user click on any of these buttons they will get corresponding sound of the drum.
+
 ![Drum](https://user-images.githubusercontent.com/39625554/159673892-df1b2576-3dc7-4a77-ad2c-bd6d5eafbe4b.PNG)
 
 Simon Game-
